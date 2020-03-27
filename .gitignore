@@ -1,0 +1,12 @@
+# ignore files
+pike13api.py
+test.py
+OA2Data.py
+OA2HOLD.py
+
+# ignore folders
+exclude/
+__pycache__/
+
+# Ignore all text files
+*.txt
